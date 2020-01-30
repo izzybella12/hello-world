@@ -1,7 +1,1 @@
-Hello!! WHat's up 
-ok...
-
-Adding another line!
-
-
-David wuz here.
+Hi What's up?
